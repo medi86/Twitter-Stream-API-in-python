@@ -11,10 +11,10 @@ import time
 from collections import Counter
 
 #twitter api user credentials
-CONSUMER_KEY = 'lc7L6EGXGPmWcQUT6wXdRKNYO'
-CONSUMER_SECRET = '3BLWU2UeQVLI0ruSgkyoTzn5vByscLKpoORVOjVcHKlQdp7tQb'
-ACCESS_TOKEN_KEY = '257596954-37JTVZWzn7k2JJlqFqoJ7NVWFotAQcgUl175VjHC'
-ACCESS_TOKEN_SECRET = 'y3TeMCkQL7hP2VMcGfhzLRlWCYMABAWYVa2nS8L4vk8UR'
+CONSUMER_KEY = 'key'
+CONSUMER_SECRET = 'secret'
+ACCESS_TOKEN_KEY = 'token-key'
+ACCESS_TOKEN_SECRET = 'token-secret'
 
 #starting the timer
 start_time = time.time()
